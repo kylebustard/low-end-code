@@ -10,7 +10,7 @@ params:
         url: 'https://www.stackbit.com'
   header:
     has_nav: true
-    logo_img: /images/screen-shot-2019-12-30-at-6.48.51-pm.png
+    logo_img: /images/bass-clef.png
     title: "\U0001D122"
   layout_style: grid
   palette: green
