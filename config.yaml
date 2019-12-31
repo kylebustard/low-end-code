@@ -10,8 +10,8 @@ params:
         url: 'https://www.stackbit.com'
   header:
     has_nav: true
-    logo_img: /images/f-clef.png
-    title: Low end code
+    logo_img: /images/bass-clef.png
+    title: "\U0001D122"
   layout_style: grid
   palette: green
 disableKinds:
