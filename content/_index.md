@@ -1,21 +1,22 @@
 ---
 title: Home
 sections:
-  - type: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
+  - actions:
       - label: Learn More
         url: /about
+    component: intro.html
+    content: >-
+      I am a professional musician who learned to code. I used to make musical
+      statements and expressions, now I make statements and expressions with
+      computer programs. Traded duets and ensembles for pair programming and
+      code reviews.
+    section_id: intro
+    title: Intro
+    type: intro
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
+
