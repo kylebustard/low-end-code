@@ -29,6 +29,11 @@
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/kylebustard"
+    },
+    {
+      "title": "Medium",
+      "icon": "fa-medium",
+      "url": "https://medium.com/@bustardkyle"
     }
   ]
 }
