@@ -12,6 +12,8 @@ layout: page
 
 He is currently working as a senior software engineer at a company that receives greater than 100 billion dollars in revenue annually. His role has him training other software engineers in hot technologies and best practices for building and maintaining enterprise software.
 
+> *Trivia*: Kyle was born in the same city as Apple's [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)
+
 As a hobby, Kyle Bustard authors this blog where he hopes to reach others like him who have not had a formal computer science education but want to fill in those gaps. He lives in Austin with his beautiful wife and baby boy.
 
 *Thank You for reading!*
