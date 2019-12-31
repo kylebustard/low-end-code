@@ -34,6 +34,11 @@
       "title": "Medium",
       "icon": "fa-medium",
       "url": "https://medium.com/@bustardkyle"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/kbustard"
     }
   ]
 }
