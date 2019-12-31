@@ -13,6 +13,17 @@
       "url": "https://github.com/kylebustard"
     },
     {
+      "type": "devto",
+      "title": "DEV",
+      "icon": "fa-dev",
+      "url": "https://dev.to/kylebustard"
+    },
+    {
+      "title": "Medium",
+      "icon": "fa-medium",
+      "url": "https://medium.com/@bustardkyle"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -23,17 +34,6 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/kylebustard/"
-    },
-    {
-      "type": "devto",
-      "title": "DEV",
-      "icon": "fa-dev",
-      "url": "https://dev.to/kylebustard"
-    },
-    {
-      "title": "Medium",
-      "icon": "fa-medium",
-      "url": "https://medium.com/@bustardkyle"
     },
     {
       "title": "Facebook",
