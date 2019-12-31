@@ -13,7 +13,7 @@ params:
     logo_img: /images/bass-clef.png
     title: "\U0001D122"
   layout_style: grid
-  palette: black
+  palette: blue
 disableKinds:
   - RSS
   - taxonomy
