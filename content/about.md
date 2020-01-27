@@ -14,6 +14,6 @@ Kyle is currently working as a senior software engineer at a company that receiv
 
 > *Fun fact*: Kyle was born in the same city as [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)
 
-As a hobby, Kyle authors this blog where he hopes to reach others like him: musicians who've transitioned into tech careers, and technologists who've had an unconventional path and want to fill in gaps from missing out on a classic computer science education. He lives in Austin with his [beautiful wife and baby boy](https://www.instagram.com/p/BstagZ2AnUP/).
+As a hobby, Kyle authors this blog where he hopes to reach others like him: musicians who've transitioned into tech careers, and technologists who've had an unconventional path and want to excel in their careers despite  missing out on a classic computer science education. He lives in Austin with his [beautiful wife and baby boy](https://www.instagram.com/p/BstagZ2AnUP/).
 
 *Thank You for reading!*
