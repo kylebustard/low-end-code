@@ -1,14 +1,14 @@
 ---
 title: About Kyle
-subtitle: This is a short page about the author and his work
-img_path: images/about.jpg
+subtitle: ''
+img_path: ''
 menu:
   main:
     name: About
     weight: 2
 layout: page
 ---
-**Kyle Bustard** is a Senior Software Engineer living in [Austin](https://en.wikipedia.org/wiki/Austin,_Texas), TX. Dropping out of college just before graduating with a double major in Philosophy and Sociology, he worked as a professional musician while moonlighting as a barista. When a [](https://www.linkedin.com/in/john-blythe-6518a615/)[friend](https://www.linkedin.com/in/john-blythe-6518a615/) recommended that he might enjoy working in tech, he decided to learn coding. Already well-versed in using scales, arpeggios, and chords to make musical statements and expressions, he understood the value in learning data types and data structures and applying them to make statements and expressions in computer programs. 
+**Kyle Bustard** is a Senior Software Engineer living in [Austin](https://en.wikipedia.org/wiki/Austin,_Texas), TX. Dropping out of college just before graduating with a double major in Philosophy and Sociology, he worked as a professional musician while moonlighting as a barista. When a [](https://www.linkedin.com/in/john-blythe-6518a615/)programmer friend recommended that he might enjoy working in tech, he decided to learn coding. Already well-versed in using scales, arpeggios, and chords to make musical statements and expressions, he understood the value in learning data types and data structures and applying them to make statements and expressions in computer programs. 
 
 Kyle is currently working as a senior software engineer at a company that receives greater than 100 billion dollars in revenue annually. His role has him training other software engineers in hot technologies and best practices for building and maintaining enterprise software.
 
