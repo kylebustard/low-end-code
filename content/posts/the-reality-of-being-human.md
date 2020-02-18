@@ -36,6 +36,8 @@ My next option was a congressional appointment and I learned that the competitio
 
 ## Unconventional moves
 
+> *It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win. – John Paul Jones, "Father of the US Navy"*
+
 My family moved around a lot when I was growing up. The benefit of this is that I seek novelty and adventure, and I'm not afraid to try something new even if it seems I'm unqualified. It's not that I don't get scared, but I've learned to muster the courage to press through tough or ambiguous situations. But my upbringing didn't lend itself to shaping me to be competitive for an ivy-league admission track. 
 
 My mom graduated from a Mississippi high school in a class of three students, then completed half of nursing school before dropping out to marry my dad and travel. My dad grew up poor in a small Canadian fishing village and dropped out of school in eighth grade, and he started traveling in the US when he was nineteen and performing organ in tent revivals. They always supported the idea that their kids would go to college, but didn't know a level of commitment beyond asking us to make As or As & Bs. 
