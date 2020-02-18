@@ -4,6 +4,7 @@ subtitle: Shaping a future.
 date: 2020-02-03T03:40:20.576Z
 thumb_img_path: /images/navy-wf-football-game.jpg
 content_img_path: /images/navy-wf-football-game.jpg
+excerpt: Shaping a future.
 layout: post
 ---
 *Navy at Wake Forest football game, Winston-Salem, NC, 11/23/2002. Left to right: An alumnus of USNA '68 whose name I've forgotten, Admiral Naughton (USNA '68), the author (Nowhere class of 'never), and Robert Owendoff (USNA '68).*
