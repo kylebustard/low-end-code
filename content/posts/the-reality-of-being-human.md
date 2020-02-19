@@ -21,7 +21,7 @@ The only pictures anyone has seen of the US Air Force Academy (USAFA) are of the
 
 In addition to the amenities and vibe of Annapolis, the institution also has a broad range of career opportunities. You can spend your summer flying T-38 supersonic jets, driving ships or nuclear submarines in the ocean, rolling in surf and sand with Navy SEALs, and other exciting things. Upon graduation you can either be commissioned as an ensign in the Navy, or a second lieutenant in the Marine Corps.
 
-## Finding my in
+## Finding my *in*
 
 > I'm in! – Every hacker in a movie
 
@@ -81,7 +81,7 @@ Peter Thiel says that the paradox of competition is you can get quite good at yo
 
 ## No *plan B*
 
-I don't remember when I received a rejection from Annapolis, but I didn't have a plan B. I remember telling someone my top 3 choices were "#1 Annapolis, #2 Annapolis, and #3 Annapolis". I hurried to get my transcript sent to University of North Carolina–Charlotte, and was admitted for the fall semester **just in time**. My plan was to be an engineering major since all plebes (first year midshipmen at Annapolis) must take the same classes as an engineering major. I could do well in these classes and that would bolster my chances of admission into Annapolis if I reapplied the next year. Turned out I hated the classes, well, I don't know if I hated it or if I hated seeing my dream slip away. My classmates at University of North Carolina–Charlotte wanted to pursue careers in motorsports and NASCAR, and that didn’t interest me. In the spring and fall semesters I was enrolled in calculus, chemistry, physics, statistics, English, western civilization, and two other courses that were not in the engineering track for my degree: American military history, and jazz improvisation. 
+I don't remember when I received a rejection from Annapolis, but I didn't have a *plan B*. I remember telling someone my top 3 choices were "#1 Annapolis, #2 Annapolis, and #3 Annapolis". I hurried to get my transcript sent to University of North Carolina–Charlotte, and was admitted for the fall semester **just in time**. My plan was to be an engineering major since all plebes (first year midshipmen at Annapolis) must take the same classes as an engineering major. I could do well in these classes and that would bolster my chances of admission into Annapolis if I reapplied the next year. Turned out I hated the classes, well, I don't know if I hated it or if I hated seeing my dream slip away. My classmates at University of North Carolina–Charlotte wanted to pursue careers in motorsports and NASCAR, and that didn’t interest me. In the spring and fall semesters I was enrolled in calculus, chemistry, physics, statistics, English, western civilization, and two other courses that were not in the engineering track for my degree: American military history, and jazz improvisation. 
 
 The American military history professor was Dr. James K. Hogue who earned his PhD from Princeton University, and formerly taught at the US Military Academy at West Point. It was a class that occurred on Tuesday and Thursday nights, and it didn't make sense at all with my schedule being mostly morning classes–but I wanted to be around this caliber of professor to receive an education or at least absorb something by osmosis.
 
