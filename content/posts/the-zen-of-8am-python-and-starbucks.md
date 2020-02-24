@@ -1,7 +1,7 @@
 ---
 title: The Zen of 8am Python and Starbucks
 date: 2020-02-24T02:59:49.814Z
-thumb_img_path: /images/Screen Shot 2020-02-23 at 11.15.59 PM.png
+thumb_img_path: /images/Screen Shot 2020-02-23 at 11.43.10 PM.png
 layout: post
 ---
 ## Starbucks closing down 600 stores in 2008
@@ -18,7 +18,7 @@ Before a chunk of our customers got laid off, life at the slow-paced cafe was gr
 
 Dean visited us every afternoon along with his girlfriend. He'd always order a venti (large sized) coffee, and even though he never asked us to leave room at the top, he'd walk to the condiment bar and pour out half of his coffee then top it off with half-and-half. 1-3 refills would be ordered before he left the cafe, and his intake and consistency was impressive.
 
-Dean was wicked smart, and would talk circles around you––charming you, insulting you, likely some small talk thrown in––before you knew what hit you. His dad was an engineer or scientist (I don't remember which it was) who worked with satellites and rockets for the government. His siblings were similarly accomplished. It was clear to me that Dean shared his family's intellect. He was a computer programmer who was taking time off of work for health reasons. I didn't learn what the reasons were, but Dean did share that he had a severe case of Tourette Syndrome and was now on medication for it. He explained to me some of this ways it affected him: he could be at a restaurant for a meal, and if the server took too long describing the daily specials he'd mutter something offensive and personal towards them; he admitted to doing the same to me when we'd make small talk during daily customer-barista exchanges. 
+Dean was wicked smart, and would talk circles around you––charming you, insulting you, likely some small talk thrown in––before you knew what hit you. His dad was an engineer or scientist (I don't remember which it was) who worked with satellites and rockets for the government. His siblings were similarly accomplished. It was clear to me that Dean shared his family's intellect. He was a computer programmer who was taking time off of work for health reasons. I didn't learn what the reasons were, but Dean did share that he had a severe case of [Tourette Syndrome](https://en.wikipedia.org/wiki/Tourette_syndrome) and was now on medication for it. He explained to me some of this ways it affected him: he could be at a restaurant for a meal, and if the server took too long describing the daily specials he'd mutter something offensive and personal towards them; he admitted to doing the same to me when we'd make small talk during daily customer-barista exchanges. 
 
 ### Mötley Two
 
@@ -45,6 +45,8 @@ On the first day of class the professor talked a bit about Python. I remember he
 ### `def class_is_boring:`
 
 By week two he'd introduced functions. I had not struggled one bit with the material, in fact I was bored and not challenged. I typed slow, but I completed the labs with time to spare. I was struggling to stay motivated. I felt disconnected from the professor who seemed to be separated from modernity by several generations to me who was young and immature. I felt disconnected from my classmates who never spoke a word to me, but seemed to all know each other, chummy with their greetings, inside jokes, and swapping flash drives and shared a common interested in––for all I knew––trying to *hack the mainframe.* 
+
+I was intimidated by my classmates when the class first started. It was clear that typing speed wasn't the only thing that separated us: they seemed to have no interest outside of computers. I found a small personal victory in hanging with the class at least for a couple of weeks––I discovered I was not incapable writing a computer program and this felt pretty alright. I had a glimpse that I could survive in the world of technology, but it wasn't fulfilling.
 
 I'd stop by my Starbucks in the mornings before class, and think about how I was happier there than I would be at the 8am Python programming class. Yes, Starbucks wouldn't be a way for me to earn enough money to cruise around in expensive suits with the top down, but money wasn't everything. The class was boring, and I would have rather been in bed. I dropped the class after the second or third week. 
 
