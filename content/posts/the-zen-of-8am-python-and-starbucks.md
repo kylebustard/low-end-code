@@ -2,6 +2,7 @@
 title: The Zen of 8am Python and Starbucks
 date: 2020-02-24T02:59:49.814Z
 thumb_img_path: /images/Screen Shot 2020-02-23 at 11.43.10 PM.png
+content_img_path: /images/zenpysbux.png
 layout: post
 ---
 ## Starbucks closing down 600 stores in 2008
