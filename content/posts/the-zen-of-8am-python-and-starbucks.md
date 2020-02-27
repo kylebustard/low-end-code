@@ -6,13 +6,13 @@ layout: post
 ---
 ## Starbucks closing down 600 stores in 2008
 
-My first experience writing computer programs was back in 2008. I was taking time off of college and working as a shift supervisor for Starbucks Coffee. In 2007, I joined the company at one of their busiest locations in the Southeast––a drive-thru store where everyone in Concord, North Carolina went to get their coffee beverages 1-3 times per day. After six months with the company I was promoted and sent to a new location where I would fulfill my new commission as a shift supervisor. The new store was a sleepy cafe in a business park––a far cry from the fast-paced store I'd come from that sat on a great corner location beside a shopping mall, movie theater, and hospital and just a of couple traffics light down from I-35 (in fact, this prime location was owned by Starbucks whereas most locations I'm told were leased).
+My first experience writing computer programs was back in 2008. I was taking time off of college and working as a shift supervisor for Starbucks Coffee. In 2007, I joined the company at one of their busiest locations in the Southeast––a drive-thru store where everyone in Concord, North Carolina went to get their coffee beverages 1-3 times per day. After six months with the company I was promoted and sent to a new location where I would fulfill my new commission as a shift supervisor. The new store was a sleepy cafe in a business park––a far cry from the fast-paced store I'd come from that sat on a great corner location beside a shopping mall, movie theater, and hospital and just a of couple traffics light down from I-85 (in fact, this prime location was owned by Starbucks whereas most locations I'm told were leased).
 
 My new cafe was patronized by professionals who worked at the corporate offices in the vicinity––finance and enterprise IT. In 2008, the economic depression hit and many of our customers lost their jobs. Eventually, Starbucks announced they would be closing 600 of its stores permanently––and my store was one of the first to be closed. But I'm not going to talk about that in this post. 
 
 ## Change of pace
 
-Before a chunk of our customers got laid off, life at the slow-paced cafe was great. The tips were down, but there were benefits to the extra time we had: our store was the cleanest in the district; we had time to chat with interesting customers. One of those customers was a South African, and I'm going to call him *Dean* in this post*.* 
+Before a chunk of our customers got laid off, life at the slow-paced cafe was great. The tips were down, but there were benefits to the extra time we had: our store was the cleanest in the district; we had time to chat with interesting customers. One of those customers was a South African man, and I'm going to call him *Dean* in this post*.* 
 
 ### Dean
 
@@ -48,7 +48,7 @@ By week two he'd introduced functions. I had not struggled one bit with the mate
 
 I was intimidated by my classmates when the class first started. It was clear that typing speed wasn't the only thing that separated us: they seemed to have no interest outside of computers. I found a small personal victory in hanging with the class at least for a couple of weeks––I discovered I was not incapable writing a computer program and this felt pretty alright. I had a glimpse that I could survive in the world of technology, but it wasn't fulfilling.
 
-I'd stop by my Starbucks in the mornings before class, and think about how I was happier there than I would be at the 8am Python programming class. Yes, Starbucks wouldn't be a way for me to earn enough money to cruise around in expensive suits with the top down, but money wasn't everything. The class was boring, and I would have rather been in bed. I dropped the class after the second or third week. 
+I'd stop by my Starbucks in the mornings before class, and think about how I was happier there than I would be at the 8am Python programming class. Yes, Starbucks wouldn't be a way for me to earn enough money to cruise around with the top down while wearing expensive suits, but money wasn't everything. The class was boring, and I would have rather been in bed. I dropped the class after the second or third week. 
 
 ### Feeling "zen" this go 'round
 
