@@ -1,5 +1,6 @@
 title: Low end code
 baseURL: /
+publish_mode: editorial_workflow
 params:
   footer:
     content: '&copy; All rights reserved.'
