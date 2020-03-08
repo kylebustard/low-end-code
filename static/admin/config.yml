@@ -549,7 +549,7 @@ collections:
       value: "Life"
   - name: technical-post
     label: Technical Posts
-    folder: content/technical-posts
+    folder: content/posts
     create: true
     extension: md
     slug: '{{slug}}'
