@@ -462,6 +462,12 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
+      - widget: select
+        name: category
+        label: Category
+        required: True
+        hint: The category of the post.
+        options: ["Technical", "Life"]
       - widget: string
         name: title
         label: Title
@@ -539,8 +545,8 @@ collections:
         required: false
         hint: Page content
     filter:
-      field: layout
-      value: post
+      field: category
+      value: "Life"
   - name: technical-post
     label: Technical Posts
     folder: content/technical-posts
@@ -548,6 +554,12 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
+      - widget: select
+        name: category
+        label: Category
+        required: True
+        hint: The category of the post.
+        options: ["Technical", "Life"]
       - widget: string
         name: title
         label: Title
@@ -625,8 +637,8 @@ collections:
         required: false
         hint: Page content
     filter:
-      field: layout
-      value: technical-post      
+      field: category
+      value: "Technical"
   - name: subscribe
     label: Subscribe
     files:
