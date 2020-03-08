@@ -467,7 +467,9 @@ collections:
         label: Category
         required: True
         hint: The category of the post.
-        options: ["Technical", "Life"]
+        options:
+          - Technical
+          - Life
       - widget: string
         name: title
         label: Title
@@ -546,7 +548,7 @@ collections:
         hint: Page content
     filter:
       field: category
-      value: "Life"
+      value: Life
   - name: technical-post
     label: Technical Posts
     folder: content/posts
@@ -559,7 +561,9 @@ collections:
         label: Category
         required: True
         hint: The category of the post.
-        options: ["Technical", "Life"]
+        options: 
+          - Technical
+          - Life
       - widget: string
         name: title
         label: Title
@@ -638,7 +642,7 @@ collections:
         hint: Page content
     filter:
       field: category
-      value: "Technical"
+      value: Technical
   - name: subscribe
     label: Subscribe
     files:
