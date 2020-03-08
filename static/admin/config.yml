@@ -541,7 +541,7 @@ collections:
     filter:
       field: layout
       value: post
-  - name: technical-posts
+  - name: technical-post
     label: Technical Posts
     folder: content/technical-posts
     create: true
